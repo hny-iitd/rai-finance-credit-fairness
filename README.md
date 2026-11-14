@@ -3,12 +3,12 @@
 **An end-to-end audit of a credit-approval model covering fairness, explainability, robustness, and the
 business and human impact of bias mitigation.**
 
-[![CI](https://github.com/GITHUB_USERNAME/rai-finance-credit-fairness/actions/workflows/ci.yml/badge.svg)](https://github.com/GITHUB_USERNAME/rai-finance-credit-fairness/actions)
+[![CI](https://github.com/hny-iitd/rai-finance-credit-fairness/actions/workflows/ci.yml/badge.svg)](https://github.com/hny-iitd/rai-finance-credit-fairness/actions)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![Domain](https://img.shields.io/badge/domain-finance-orange)
 
-Built on [rai-metrics-core](https://github.com/GITHUB_USERNAME/rai-metrics-core).
-Companion repo: [rai-healthcare-clinical-fairness](https://github.com/GITHUB_USERNAME/rai-healthcare-clinical-fairness).
+Built on [rai-metrics-core](https://github.com/hny-iitd/rai-metrics-core).
+Companion repo: [rai-healthcare-clinical-fairness](https://github.com/hny-iitd/rai-healthcare-clinical-fairness).
 
 ## Why this matters
 
